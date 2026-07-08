@@ -1,0 +1,1 @@
+DROP POLICY IF EXISTS reg_insert_own ON public.tournament_registrations;
